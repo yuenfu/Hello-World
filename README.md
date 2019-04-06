@@ -13,6 +13,10 @@
 - https://github.com/yuenfu/lg.srv
 ## toolchain
 - https://github.com/yuenfu/toolchain.rk
+## Android APP
+- https://github.com/yuenfu/hombot-control
+## web server?
+- https://github.com/yuenfu/hombot-interface
    
 # Vim
 ## a syntax file for Minicom Script Language
